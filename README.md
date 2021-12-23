@@ -1,2 +1,2 @@
 # HC-J
-Html CSS n JS
+Html CSS and JS
